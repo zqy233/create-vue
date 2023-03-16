@@ -106,7 +106,7 @@ async function init() {
     ) === 'boolean'
 
   let targetDir = argv._[0]
-  const defaultProjectName = !targetDir ? 'vue-project' : targetDir
+  const defaultProjectName = !targetDir ? 'electron-vite-template' : targetDir
 
   const forceOverwrite = argv.force
 
