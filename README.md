@@ -1,6 +1,6 @@
 # create-evite
 
-means electron-vite and easy to use
+means electron+vite and easy to use
 
 a folk version of [create-vue](https://github.com/vuejs/create-vue), which is a scaffolding tool for [electron-vite-template](https://github.com/umbrella22/electron-vite-template).
 
