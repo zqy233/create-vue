@@ -1,10 +1,8 @@
-# create-vue
+# create-evite
 
-The recommended way to start a Vite-powered Vue project
+means electron-vite and easy to use
 
-<p align="center">
-  <img src="https://github.com/vuejs/create-vue/blob/main/media/screenshot-cli.png?raw=true" width="800">
-</p>
+a folk version of [create-vue](https://github.com/vuejs/create-vue), which is a scaffolding tool for [electron-vite-template](https://github.com/umbrella22/electron-vite-template).
 
 ## Usage
 
